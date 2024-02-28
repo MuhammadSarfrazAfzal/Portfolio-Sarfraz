@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Url-Sortening-Landingpage",
+        "url": "https://github.com/MuhammadSarfrazAfzal/Url-Shortening-landingpage",
+        "description": "Url sortening page help to get detailed insights on how your links are performing.",
+        "banner": "https://res.cloudinary.com/dz209s6jk/image/upload/v1572260150/Challenges/tybadwn9wwcc10hug3sn.jpg",
+        "color": "#dea584",
+        "lang": "JavaScript",
+        "date": "2022-04-11T12:06:09Z",
+        "stars": 189,
+        "forks": 24,
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    },
+    {
+        "name": "Single price Grid Component",
+        "url": "https://github.com/MuhammadSarfrazAfzal/Singleprice-grid-component",
+        "description": "",
+        "banner": "https://github.com/MuhammadSarfrazAfzal/Singleprice-grid-component/raw/main/design/desktop-preview.jpg",
+        "color": "#f1e05a",
+        "lang": "HTML,CSS,JS",
+        "date": "2020-11-19T09:58:47Z",
+        "stars": 137,
+        "forks": 25,
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    },
+    {
+        "name": "Product Landing Page",
+        "url": "https://github.com/MuhammadSarfrazAfzal/Product-landingpage",
+        "description": "This landing page design help me clear my concepts of flex box and positioning",
+        "banner": "https://www.knowledgehut.com/_next/image?url=https%3A%2F%2Fd2o2utebsixu4k.cloudfront.net%2Fmedia%2Fimages%2F1648454268355-Image-4.png&w=1080&q=75",
+        "color": "#e34c26",
+        "lang": "HTML,CSS",
+        "date": "2020-09-28T13:58:21Z",
+        "stars": 6,
+        "forks": 6,
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    },
+    {
+        "name": "Weather App",
+        "url": "https://github.com/MuhammadSarfrazAfzal/Weather-app",
+        "description": "This weather app is developed by using html,css,javascript and weather api!",
+        "banner": "https://cdn.dribbble.com/users/4878971/screenshots/16494197/resizer.png?resize=640x480&vertical=center",
+        "color": "#dea584",
+        "lang": "HTML,CSS,JS",
+        "date": "2024-01-11T12:06:09Z",
+        "stars": 189,
+        "forks": 24,
+        "generatedOn": "2024-02-01 01:11:32.311970"
+    }
+]
